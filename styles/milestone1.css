@@ -1,0 +1,45 @@
+h1 {
+	font-size: 30px;
+	color: #FFB6C1;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	text-align: center;
+}
+
+#main-list {
+	border-style: solid;
+	list-style-type: none;
+ 	margin: 0;
+  	padding: 0;
+}
+
+ul {
+	list-style-type: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	border-style: solid;
+	border-color: #FFB6C1;
+	color: black;
+}
+
+h4 {
+	font-size: 25px;
+	font-weight: bold;
+	color: grey;
+}
+
+#end-list {
+	font-family: cursive;
+	text-align: auto;
+	font-family: Helvecia;
+}
+
+footer {
+	color: #FFB6C1;
+}
+
+a {
+	color: black;
+}

@@ -1,0 +1,24 @@
+body {
+   	background-color: #F0F8FF;
+	text-align: center;
+}
+
+ h1 {
+   text-align: center;
+}
+
+figure {
+   font-style: italic;
+}
+
+h6 {
+  font-family: Arial, Helvetica;
+}
+
+ul {
+  background-color: #DCDCDC;
+}
+
+a {
+	color: black;
+}
